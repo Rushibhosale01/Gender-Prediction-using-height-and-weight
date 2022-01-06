@@ -4,4 +4,4 @@ This is a very basic classification problem where we classify whether a person i
 
 Data Source: https://www.kaggle.com/mustafaali96/weight-height
 
-I have gain and used knowledge on pandas, mathplotlib and sklearn libraries in this small project.
+I have gain and used knowledge on pandas, matplotlib and sklearn libraries in this small project.
